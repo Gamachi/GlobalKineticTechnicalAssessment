@@ -1,4 +1,4 @@
-package com.example.globalkinetictechnicalassesment
+package com.example.globalkinetictechnicalassessment
 
 import org.junit.Test
 

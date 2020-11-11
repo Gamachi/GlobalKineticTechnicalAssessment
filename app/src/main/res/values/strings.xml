@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Global Kinetic Technical Assesment</string>
+    <string name="api_key">53f9d8e4213222cf517d86dc406d67fc</string>
+
+    <string name="app_name">Global Kinetic - Assessment</string>
+
+    <string name="fragment_name_weather_info">Weather Information</string>
+
+    <string name="permission_coarse_location_explained">We need your device\'s location in order to provide weather information for your area.\n\nPermissions can be changed under your device\'s app settings.</string>
+
+    <string name="alert_dialog_title_error">Oops! Something went wrong…</string>
+    <string name="alert_dialog_action_retry">Retry</string>
+
+    <string name="error_unknown_message">Unknown error occurred</string>
+    <string name="error_internet_unavailable">Internet connection unavailable</string>
+    <string name="button_description_refresh">Refresh</string>
+
+    <string name="temperature_placeholder">%1$s °C</string>
+    <string name="progress_description">Fetching weather information…</string>
 </resources>

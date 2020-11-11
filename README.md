@@ -48,6 +48,12 @@ Resources:
 
 ---
 
+![alt text](https://github.com/Gamachi/GlobalKineticTechnicalAssessment/blob/master/Screenshot_1605104441.png "Screenshot while loading")
+
+![alt text](https://github.com/Gamachi/GlobalKineticTechnicalAssessment/blob/master/Screenshot_1605104443.png "Screenshot of weather information")
+
+---
+
 ## Technologies applied
 
 - [Kotlin](https://kotlinlang.org/)
